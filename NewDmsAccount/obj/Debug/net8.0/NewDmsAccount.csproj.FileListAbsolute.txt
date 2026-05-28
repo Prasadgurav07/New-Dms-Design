@@ -1,0 +1,969 @@
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\NewDmsAccount.staticwebassets.endpoints.json
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\NewDmsAccount.deps.json
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\NewDmsAccount.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\NewDmsAccount.pdb
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.BearerToken.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Endpoints.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Session.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.CSharp.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Features.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Http.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Primitives.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.JSInterop.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Net.Http.Headers.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.VisualBasic.Core.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.VisualBasic.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Win32.Primitives.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Win32.Registry.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\mscorlib.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\netstandard.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.AppContext.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Buffers.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Collections.Concurrent.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Collections.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Collections.Immutable.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Collections.NonGeneric.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Collections.Specialized.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.ComponentModel.Annotations.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.ComponentModel.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.ComponentModel.Primitives.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.ComponentModel.TypeConverter.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Configuration.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Console.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Core.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Data.Common.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Data.DataSetExtensions.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Data.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Diagnostics.Contracts.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Diagnostics.Debug.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Diagnostics.EventLog.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Diagnostics.Process.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Diagnostics.StackTrace.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Diagnostics.Tools.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Diagnostics.TraceSource.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Diagnostics.Tracing.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Drawing.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Drawing.Primitives.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Dynamic.Runtime.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Formats.Asn1.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Formats.Tar.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Globalization.Calendars.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Globalization.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Globalization.Extensions.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.IO.Compression.Brotli.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.IO.Compression.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.IO.Compression.FileSystem.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.IO.Compression.ZipFile.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.IO.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.IO.FileSystem.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.IO.FileSystem.Primitives.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.IO.FileSystem.Watcher.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.IO.IsolatedStorage.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.IO.MemoryMappedFiles.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.IO.Pipelines.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.IO.Pipes.AccessControl.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.IO.Pipes.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Linq.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Linq.Expressions.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Linq.Parallel.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Linq.Queryable.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Memory.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Net.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Net.Http.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Net.Http.Json.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Net.HttpListener.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Net.Mail.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Net.NameResolution.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Net.NetworkInformation.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Net.Ping.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Net.Primitives.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Net.Quic.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Net.Requests.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Net.Security.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Net.ServicePoint.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Net.Sockets.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Net.WebClient.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Net.WebHeaderCollection.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Net.WebProxy.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Net.WebSockets.Client.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Net.WebSockets.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Numerics.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Numerics.Vectors.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.ObjectModel.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Reflection.DispatchProxy.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Reflection.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Reflection.Emit.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Reflection.Extensions.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Reflection.Metadata.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Reflection.Primitives.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Reflection.TypeExtensions.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Resources.Reader.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Resources.ResourceManager.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Resources.Writer.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Runtime.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Runtime.Extensions.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Runtime.Handles.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Runtime.InteropServices.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Runtime.InteropServices.JavaScript.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Runtime.Intrinsics.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Runtime.Loader.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Runtime.Numerics.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Runtime.Serialization.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Runtime.Serialization.Json.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Runtime.Serialization.Xml.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Security.AccessControl.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Security.Claims.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Security.Cryptography.Cng.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Security.Cryptography.Csp.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Security.Cryptography.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Security.Cryptography.Encoding.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Security.Cryptography.Primitives.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Security.Cryptography.Xml.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Security.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Security.Principal.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Security.Principal.Windows.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Security.SecureString.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.ServiceModel.Web.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.ServiceProcess.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Text.Encoding.CodePages.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Text.Encoding.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Text.Encoding.Extensions.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Text.Encodings.Web.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Text.Json.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Text.RegularExpressions.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Threading.Channels.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Threading.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Threading.Overlapped.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Threading.RateLimiting.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Threading.Tasks.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Threading.Tasks.Extensions.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Threading.Tasks.Parallel.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Threading.Thread.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Threading.ThreadPool.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Threading.Timer.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Transactions.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Transactions.Local.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.ValueTuple.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Web.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Web.HttpUtility.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Windows.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Xml.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Xml.Linq.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Xml.ReaderWriter.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Xml.Serialization.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Xml.XDocument.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Xml.XmlDocument.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Xml.XmlSerializer.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Xml.XPath.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\System.Xml.XPath.XDocument.dll
+D:\New Design\NewDmsAccount\bin\Debug\net8.0\refs\WindowsBase.dll
+D:\New Design\NewDmsAccount\obj\Debug\net8.0\NewDmsAccount.csproj.AssemblyReference.cache
+D:\New Design\NewDmsAccount\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\New Design\NewDmsAccount\obj\Debug\net8.0\NewDmsAccount.GeneratedMSBuildEditorConfig.editorconfig
+D:\New Design\NewDmsAccount\obj\Debug\net8.0\NewDmsAccount.AssemblyInfoInputs.cache
+D:\New Design\NewDmsAccount\obj\Debug\net8.0\NewDmsAccount.AssemblyInfo.cs
+D:\New Design\NewDmsAccount\obj\Debug\net8.0\NewDmsAccount.csproj.CoreCompileInputs.cache
+D:\New Design\NewDmsAccount\obj\Debug\net8.0\NewDmsAccount.RazorAssemblyInfo.cache
+D:\New Design\NewDmsAccount\obj\Debug\net8.0\NewDmsAccount.RazorAssemblyInfo.cs
+D:\New Design\NewDmsAccount\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\New Design\NewDmsAccount\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\New Design\NewDmsAccount\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\New Design\NewDmsAccount\obj\Debug\net8.0\scopedcss\bundle\NewDmsAccount.styles.css
+D:\New Design\NewDmsAccount\obj\Debug\net8.0\staticwebassets.build.json
+D:\New Design\NewDmsAccount\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\New Design\NewDmsAccount\obj\Debug\net8.0\staticwebassets.development.json
+D:\New Design\NewDmsAccount\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\New Design\NewDmsAccount\obj\Debug\net8.0\staticwebassets\msbuild.NewDmsAccount.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New Design\NewDmsAccount\obj\Debug\net8.0\staticwebassets\msbuild.NewDmsAccount.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\New Design\NewDmsAccount\obj\Debug\net8.0\staticwebassets\msbuild.build.NewDmsAccount.props
+D:\New Design\NewDmsAccount\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NewDmsAccount.props
+D:\New Design\NewDmsAccount\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NewDmsAccount.props
+D:\New Design\NewDmsAccount\obj\Debug\net8.0\staticwebassets.pack.json
+D:\New Design\NewDmsAccount\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\New Design\NewDmsAccount\obj\Debug\net8.0\NewDmsAccount.dll
+D:\New Design\NewDmsAccount\obj\Debug\net8.0\refint\NewDmsAccount.dll
+D:\New Design\NewDmsAccount\obj\Debug\net8.0\NewDmsAccount.pdb
+D:\New Design\NewDmsAccount\obj\Debug\net8.0\ref\NewDmsAccount.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\NewDmsAccount.staticwebassets.endpoints.json
+D:\prasad\codex\NewDms\obj\CodexBuild\NewDmsAccount.deps.json
+D:\prasad\codex\NewDms\obj\CodexBuild\NewDmsAccount.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\NewDmsAccount.pdb
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Authentication.BearerToken.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Authentication.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Authorization.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Components.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Components.Endpoints.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Cors.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Hosting.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Http.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Identity.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Localization.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Metadata.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Mvc.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.OutputCaching.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.RateLimiting.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Razor.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.RequestDecompression.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Routing.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.Session.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.SignalR.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.CSharp.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.Configuration.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.Diagnostics.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.Features.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.Hosting.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.Http.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.Identity.Core.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.Localization.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.Logging.Console.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.Logging.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.ObjectPool.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.Options.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.Primitives.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Extensions.WebEncoders.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.JSInterop.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Net.Http.Headers.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.VisualBasic.Core.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.VisualBasic.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Win32.Primitives.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\Microsoft.Win32.Registry.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\mscorlib.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\netstandard.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.AppContext.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Buffers.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Collections.Concurrent.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Collections.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Collections.Immutable.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Collections.NonGeneric.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Collections.Specialized.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.ComponentModel.Annotations.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.ComponentModel.DataAnnotations.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.ComponentModel.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.ComponentModel.EventBasedAsync.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.ComponentModel.Primitives.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.ComponentModel.TypeConverter.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Configuration.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Console.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Core.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Data.Common.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Data.DataSetExtensions.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Data.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Diagnostics.Contracts.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Diagnostics.Debug.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Diagnostics.DiagnosticSource.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Diagnostics.EventLog.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Diagnostics.FileVersionInfo.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Diagnostics.Process.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Diagnostics.StackTrace.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Diagnostics.Tools.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Diagnostics.TraceSource.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Diagnostics.Tracing.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Drawing.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Drawing.Primitives.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Dynamic.Runtime.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Formats.Asn1.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Formats.Tar.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Globalization.Calendars.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Globalization.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Globalization.Extensions.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.IO.Compression.Brotli.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.IO.Compression.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.IO.Compression.FileSystem.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.IO.Compression.ZipFile.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.IO.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.IO.FileSystem.AccessControl.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.IO.FileSystem.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.IO.FileSystem.DriveInfo.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.IO.FileSystem.Primitives.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.IO.FileSystem.Watcher.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.IO.IsolatedStorage.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.IO.MemoryMappedFiles.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.IO.Pipelines.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.IO.Pipes.AccessControl.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.IO.Pipes.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.IO.UnmanagedMemoryStream.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Linq.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Linq.Expressions.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Linq.Parallel.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Linq.Queryable.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Memory.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Net.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Net.Http.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Net.Http.Json.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Net.HttpListener.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Net.Mail.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Net.NameResolution.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Net.NetworkInformation.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Net.Ping.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Net.Primitives.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Net.Quic.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Net.Requests.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Net.Security.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Net.ServicePoint.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Net.Sockets.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Net.WebClient.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Net.WebHeaderCollection.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Net.WebProxy.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Net.WebSockets.Client.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Net.WebSockets.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Numerics.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Numerics.Vectors.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.ObjectModel.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Reflection.DispatchProxy.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Reflection.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Reflection.Emit.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Reflection.Emit.ILGeneration.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Reflection.Emit.Lightweight.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Reflection.Extensions.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Reflection.Metadata.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Reflection.Primitives.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Reflection.TypeExtensions.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Resources.Reader.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Resources.ResourceManager.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Resources.Writer.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Runtime.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Runtime.Extensions.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Runtime.Handles.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Runtime.InteropServices.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Runtime.InteropServices.JavaScript.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Runtime.Intrinsics.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Runtime.Loader.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Runtime.Numerics.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Runtime.Serialization.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Runtime.Serialization.Formatters.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Runtime.Serialization.Json.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Runtime.Serialization.Primitives.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Runtime.Serialization.Xml.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Security.AccessControl.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Security.Claims.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Security.Cryptography.Algorithms.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Security.Cryptography.Cng.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Security.Cryptography.Csp.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Security.Cryptography.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Security.Cryptography.Encoding.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Security.Cryptography.OpenSsl.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Security.Cryptography.Primitives.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Security.Cryptography.X509Certificates.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Security.Cryptography.Xml.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Security.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Security.Principal.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Security.Principal.Windows.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Security.SecureString.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.ServiceModel.Web.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.ServiceProcess.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Text.Encoding.CodePages.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Text.Encoding.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Text.Encoding.Extensions.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Text.Encodings.Web.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Text.Json.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Text.RegularExpressions.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Threading.Channels.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Threading.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Threading.Overlapped.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Threading.RateLimiting.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Threading.Tasks.Dataflow.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Threading.Tasks.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Threading.Tasks.Extensions.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Threading.Tasks.Parallel.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Threading.Thread.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Threading.ThreadPool.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Threading.Timer.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Transactions.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Transactions.Local.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.ValueTuple.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Web.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Web.HttpUtility.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Windows.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Xml.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Xml.Linq.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Xml.ReaderWriter.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Xml.Serialization.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Xml.XDocument.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Xml.XmlDocument.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Xml.XmlSerializer.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Xml.XPath.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\System.Xml.XPath.XDocument.dll
+D:\prasad\codex\NewDms\obj\CodexBuild\refs\WindowsBase.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\NewDmsAccount.staticwebassets.endpoints.json
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\NewDmsAccount.deps.json
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\NewDmsAccount.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\NewDmsAccount.pdb
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.BearerToken.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Endpoints.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Session.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.CSharp.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Features.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Http.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.Primitives.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.JSInterop.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Net.Http.Headers.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.VisualBasic.Core.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.VisualBasic.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Win32.Primitives.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\Microsoft.Win32.Registry.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\mscorlib.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\netstandard.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.AppContext.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Buffers.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Collections.Concurrent.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Collections.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Collections.Immutable.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Collections.NonGeneric.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Collections.Specialized.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.ComponentModel.Annotations.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.ComponentModel.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.ComponentModel.Primitives.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.ComponentModel.TypeConverter.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Configuration.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Console.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Core.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Data.Common.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Data.DataSetExtensions.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Data.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Diagnostics.Contracts.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Diagnostics.Debug.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Diagnostics.EventLog.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Diagnostics.Process.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Diagnostics.StackTrace.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Diagnostics.Tools.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Diagnostics.TraceSource.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Diagnostics.Tracing.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Drawing.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Drawing.Primitives.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Dynamic.Runtime.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Formats.Asn1.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Formats.Tar.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Globalization.Calendars.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Globalization.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Globalization.Extensions.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.IO.Compression.Brotli.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.IO.Compression.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.IO.Compression.FileSystem.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.IO.Compression.ZipFile.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.IO.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.IO.FileSystem.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.IO.FileSystem.Primitives.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.IO.FileSystem.Watcher.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.IO.IsolatedStorage.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.IO.MemoryMappedFiles.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.IO.Pipelines.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.IO.Pipes.AccessControl.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.IO.Pipes.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Linq.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Linq.Expressions.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Linq.Parallel.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Linq.Queryable.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Memory.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Net.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Net.Http.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Net.Http.Json.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Net.HttpListener.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Net.Mail.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Net.NameResolution.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Net.NetworkInformation.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Net.Ping.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Net.Primitives.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Net.Quic.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Net.Requests.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Net.Security.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Net.ServicePoint.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Net.Sockets.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Net.WebClient.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Net.WebHeaderCollection.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Net.WebProxy.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Net.WebSockets.Client.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Net.WebSockets.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Numerics.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Numerics.Vectors.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.ObjectModel.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Reflection.DispatchProxy.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Reflection.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Reflection.Emit.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Reflection.Extensions.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Reflection.Metadata.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Reflection.Primitives.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Reflection.TypeExtensions.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Resources.Reader.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Resources.ResourceManager.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Resources.Writer.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Runtime.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Runtime.Extensions.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Runtime.Handles.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Runtime.InteropServices.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Runtime.InteropServices.JavaScript.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Runtime.Intrinsics.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Runtime.Loader.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Runtime.Numerics.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Runtime.Serialization.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Runtime.Serialization.Json.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Runtime.Serialization.Xml.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Security.AccessControl.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Security.Claims.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Security.Cryptography.Cng.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Security.Cryptography.Csp.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Security.Cryptography.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Security.Cryptography.Encoding.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Security.Cryptography.Primitives.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Security.Cryptography.Xml.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Security.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Security.Principal.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Security.Principal.Windows.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Security.SecureString.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.ServiceModel.Web.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.ServiceProcess.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Text.Encoding.CodePages.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Text.Encoding.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Text.Encoding.Extensions.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Text.Encodings.Web.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Text.Json.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Text.RegularExpressions.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Threading.Channels.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Threading.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Threading.Overlapped.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Threading.RateLimiting.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Threading.Tasks.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Threading.Tasks.Extensions.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Threading.Tasks.Parallel.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Threading.Thread.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Threading.ThreadPool.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Threading.Timer.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Transactions.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Transactions.Local.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.ValueTuple.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Web.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Web.HttpUtility.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Windows.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Xml.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Xml.Linq.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Xml.ReaderWriter.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Xml.Serialization.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Xml.XDocument.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Xml.XmlDocument.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Xml.XmlSerializer.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Xml.XPath.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\System.Xml.XPath.XDocument.dll
+D:\prasad\codex\NewDmsAccount\bin\Debug\net8.0\refs\WindowsBase.dll
+D:\prasad\codex\NewDmsAccount\obj\Debug\net8.0\NewDmsAccount.csproj.AssemblyReference.cache
+D:\prasad\codex\NewDmsAccount\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\prasad\codex\NewDmsAccount\obj\Debug\net8.0\NewDmsAccount.GeneratedMSBuildEditorConfig.editorconfig
+D:\prasad\codex\NewDmsAccount\obj\Debug\net8.0\NewDmsAccount.AssemblyInfoInputs.cache
+D:\prasad\codex\NewDmsAccount\obj\Debug\net8.0\NewDmsAccount.AssemblyInfo.cs
+D:\prasad\codex\NewDmsAccount\obj\Debug\net8.0\NewDmsAccount.csproj.CoreCompileInputs.cache
+D:\prasad\codex\NewDmsAccount\obj\Debug\net8.0\NewDmsAccount.RazorAssemblyInfo.cache
+D:\prasad\codex\NewDmsAccount\obj\Debug\net8.0\NewDmsAccount.RazorAssemblyInfo.cs
+D:\prasad\codex\NewDmsAccount\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\prasad\codex\NewDmsAccount\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\prasad\codex\NewDmsAccount\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\prasad\codex\NewDmsAccount\obj\Debug\net8.0\scopedcss\bundle\NewDmsAccount.styles.css
+D:\prasad\codex\NewDmsAccount\obj\Debug\net8.0\staticwebassets.build.json
+D:\prasad\codex\NewDmsAccount\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\prasad\codex\NewDmsAccount\obj\Debug\net8.0\staticwebassets.development.json
+D:\prasad\codex\NewDmsAccount\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\prasad\codex\NewDmsAccount\obj\Debug\net8.0\swae.build.ex.cache
+D:\prasad\codex\NewDmsAccount\obj\Debug\net8.0\staticwebassets\msbuild.NewDmsAccount.Microsoft.AspNetCore.StaticWebAssets.props
+D:\prasad\codex\NewDmsAccount\obj\Debug\net8.0\staticwebassets\msbuild.NewDmsAccount.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\prasad\codex\NewDmsAccount\obj\Debug\net8.0\staticwebassets\msbuild.build.NewDmsAccount.props
+D:\prasad\codex\NewDmsAccount\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NewDmsAccount.props
+D:\prasad\codex\NewDmsAccount\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NewDmsAccount.props
+D:\prasad\codex\NewDmsAccount\obj\Debug\net8.0\staticwebassets.pack.json
+D:\prasad\codex\NewDmsAccount\obj\Debug\net8.0\NewDmsAccount.dll
+D:\prasad\codex\NewDmsAccount\obj\Debug\net8.0\refint\NewDmsAccount.dll
+D:\prasad\codex\NewDmsAccount\obj\Debug\net8.0\NewDmsAccount.pdb
+D:\prasad\codex\NewDmsAccount\obj\Debug\net8.0\ref\NewDmsAccount.dll
